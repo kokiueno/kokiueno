@@ -25,17 +25,19 @@ Probabilistic ML, Optimization, Tractable Bayesian Inference, Uncertainty, Reinf
 <h3 align="left">A passionate Data Scientist from Japan</h3>
 
 - 🎓  I currently conduct research at **Computational Intelligence Laboratory**, TTI（Toyota Technological Institute）, Japan
-- 🌱  I worked at Toyota Motor Company, AT&S, AVILEN as a **data scientist**
+- 🌱  I worked at Toyota Motor Company, AT&S, and AVILEN as a **data scientist**
 - 💬  Contact me if you have any questions; [LinkedIn](https://www.linkedin.com/in/koki-ueno-142b47281)
 &nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python"   width="40" height="40" /> </a>
-  <a href="https://www.r-project.org" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40"       height="40"> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"> </a>
-  <a href="https://mlflow.org" target="_blank" rel="noopener"> <img src="https://avatars.githubusercontent.com/u/35743529?s=200&v=4" alt="ML Flow" width="40" height="40"> </a>
-  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure DevOps" width="40" height="40"> </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noopener"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"> </a>
-  <a href="https://www.latex-project.org" target="_blank" rel="noopener"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="40" height="40"> </a></p>
+  <a href="https://www.python.org" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" style="width:40px; height:40px; margin-right:16px;" /></a>
+  <a href="https://www.r-project.org" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" style="width:40px; height:40px; margin-right:16px;"></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" style="width:40px; height:40px; margin-right:16px;"></a>
+  <a href="https://mlflow.org" target="_blank" rel="noopener"><img src="https://avatars.githubusercontent.com/u/35743529?s=200&v=4" alt="ML Flow" style="width:40px; height:40px; margin-right:16px;"></a>
+  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure DevOps" style="width:40px; height:40px; margin-right:16px;"></a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" style="width:40px; height:40px; margin-right:16px;"></a>
+  <a href="https://www.latex-project.org" target="_blank" rel="noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" style="width:40px; height:40px; margin-right:16px;"></a>
+</p>
+
 &nbsp;

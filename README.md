@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Koki Ueno</h1>
+&nbsp;
+
+<h4 align="left">🤔 My interests fall under inlligent systems decision-making within the scope of real-world engineering challenges; </h3>
+Probabilistic ML, Optimization, Tractable Bayesian Inference, Uncertainty, Reinforcement Learning, Physics-Informed ML
+&nbsp;
 
 <h3 align="left">A passionate Data Scientist from Japan</h3>
 
@@ -33,8 +38,4 @@ Here are some ideas to get you started:
   <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure DevOps" width="40" height="40"> </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noopener"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"> </a>
   <a href="https://www.latex-project.org" target="_blank" rel="noopener"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="40" height="40"> </a></p>
-&nbsp;
-
-<h4 align="left">My interests fall under inlligent systems decision-making within the scope of real-world engineering challenges; </h3>
-Probabilistic ML, Optimization, Tractable Bayesian Inference, Uncertainty, Reinforcement Learning, Physics-Informed ML
 &nbsp;

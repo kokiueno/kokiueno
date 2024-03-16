@@ -42,4 +42,5 @@ Probabilistic ML, Optimization, Tractable Bayesian Inference, Uncertainty, Reinf
 
 &nbsp;
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokiueno)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokiueno)

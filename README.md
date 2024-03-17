@@ -18,20 +18,20 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Koki Ueno</h1>
 -->
 <h1 align="left">Welcome to my GitHub page 👋</h1>
-&nbsp;
 
-<h1 align="left">About me</h1>
 <h4 align="left">Hi there, my name is Koki Ueno.
 &nbsp;
-  
+
 <h4 align="left">🤔 My interests fall under inlligent systems decision-making within the scope of real-world engineering challenges; </h3>
 Probabilistic ML, Optimization, Tractable Bayesian Inference, Uncertainty, Reinforcement Learning, Physics-Informed ML
 &nbsp;
 
+<h1 align="left">About me</h1>
+
 <h3 align="left">A passionate Data Scientist from Japan</h3>
 
 - 🎓  I currently conduct research at **Computational Intelligence Laboratory**, TTI（Toyota Technological Institute）, Japan
-- 🌱  I worked at Toyota Motor Company, AT&S, and AVILEN as a **data scientist**
+- 🌱  I worked at Toyota Motor Company, AT&S, and AVILEN as a **data scientist or data analyst**
 - 💬  Contact me if you have any questions; [LinkedIn](https://www.linkedin.com/in/koki-ueno-142b47281)
 &nbsp;
 

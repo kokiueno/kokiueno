@@ -14,10 +14,16 @@ Here are some ideas to get you started:
 
 &nbsp; # 改行
 -->
-
+<!--
 <h1 align="center">Hi 👋, I'm Koki Ueno</h1>
+-->
+<h1 align="left">Welcome to my GitHub page 👋</h1>
 &nbsp;
 
+<h1 align="left">About me</h1>
+<h4 align="left">Hi there, my name is Koki Ueno.
+&nbsp;
+  
 <h4 align="left">🤔 My interests fall under inlligent systems decision-making within the scope of real-world engineering challenges; </h3>
 Probabilistic ML, Optimization, Tractable Bayesian Inference, Uncertainty, Reinforcement Learning, Physics-Informed ML
 &nbsp;

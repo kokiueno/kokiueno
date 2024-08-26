@@ -32,8 +32,6 @@ Probabilistic ML, Optimization, Tractable Bayesian Inference, Uncertainty, Reinf
 
 - 🎓  I currently conduct research at **Computational Intelligence Laboratory**, TTI（Toyota Technological Institute）, Japan
 - 🌱  I worked at Toyota Motor Company, AT&S, and AVILEN as a **data scientist or data analyst**
-- 💬  Contact me if you have any questions; [LinkedIn](https://www.linkedin.com/in/koki-ueno-142b47281)
-&nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
